@@ -1,0 +1,15 @@
+body{
+	background: lightblue;
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+}
+.fas{
+	font-size: 25px;
+}
+.fa-thermometer-half{
+	color: red;
+}
+.fa-wind{
+	color: lightblue;
+}
